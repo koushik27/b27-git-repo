@@ -2,3 +2,4 @@
 3 rdline is again added to the branch
 4 th line is added to the branch again for "gitdiff"
 5 th line is added in the branch
+6 th line is added to the branch
